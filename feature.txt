@@ -1,2 +1,4 @@
 line 01 of feature 01
 line 02 of feature 01
+line 03 of feature 01
+line 04 of feature 01
